@@ -1,0 +1,2 @@
+# cdnms
+Codenames game.
